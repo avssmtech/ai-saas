@@ -1,0 +1,7 @@
+version: '3.9'
+services:
+  # Add sql/redis/azurite later if you want.
+  # api:
+  #   build: ./backend/src/Platform.Api
+  #   ports:
+  #     - "5080:8080"
