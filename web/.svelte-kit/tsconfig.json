@@ -1,7 +1,5 @@
 {
 	"compilerOptions": {
-		"skipLibCheck": true,
-		"types": ["node", "vite/client"],
 		"paths": {
 			"$lib": [
 				"../src/lib"

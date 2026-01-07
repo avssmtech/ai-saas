@@ -4,9 +4,9 @@ build/
 dist/
 *.log
 package-lock.json
-.svelte-kit/generated/
-.svelte-kit/types/
-.svelte-kit/output/
+web/.svelte-kit/generated/
+web/.svelte-kit/types/
+web/.svelte-kit/output/
 
 # .NET
 **/bin/
@@ -28,3 +28,5 @@ Thumbs.db
 
 .vs
 .vscode
+web/.svelte-kit/ambient.d.ts
+web/.svelte-kit/non-ambient.d.ts
