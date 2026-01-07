@@ -4,6 +4,9 @@ build/
 dist/
 *.log
 package-lock.json
+.svelte-kit/generated/
+.svelte-kit/types/
+.svelte-kit/output/
 
 # .NET
 **/bin/
