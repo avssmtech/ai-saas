@@ -1,2 +1,0 @@
-# Orchestrator.Application
-Orchestrator layer (route requests to agents, apply guardrails, register tools).
